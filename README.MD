@@ -89,6 +89,7 @@ Linux
 ## Developed By
 
 Anubrat Singh
+Aman Kumar Choudhary
 
 4th Year (CSE-AI) Engineering
 
